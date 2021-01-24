@@ -2,24 +2,30 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Threading.Tasks;
 
-namespace ProgramacaoParalela.Sincrona
+namespace _8_Async
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var sw = new Stopwatch();
-            sw.Start();
-
-            var primes = GetPrimeNumbers(2, 10000000);
-            Console.WriteLine("Primes found: {0}\nTotal time: {1}", primes.Count,sw.ElapsedMilliseconds);
+            ProcessPrimesAsync();
+            Console.ReadLine();
         }
 
-        private static List<int> GetPrimeNumbers(int minimum, int maximum)
+        private static async void ProcessPrimesAsync()
+        {
+            var sw = new Stopwatch();
+            sw.Start();
+            List<int> primes = await GetPrimeNumbersAsync(2, 10000000);
+            Console.WriteLine("Primes found: {0}\nTotal time: {1}", primes.Count, sw.ElapsedMilliseconds);
+        }
+
+        private static async Task<List<int>> GetPrimeNumbersAsync(int minimum, int maximum)
         {
             var count = maximum - minimum + 1;
-            return Enumerable.Range(minimum,count).Where(IsPrimeNumber).ToList();
+            return await Task.Factory.StartNew(() => Enumerable.Range(minimum, count).Where(IsPrimeNumber).ToList());
         }
 
         static bool IsPrimeNumber(int p)

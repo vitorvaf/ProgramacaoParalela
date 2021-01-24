@@ -1,0 +1,13 @@
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/obj/Debug/netcoreapp3.1/5-Paralela.csprojAssemblyReference.cache
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/obj/Debug/netcoreapp3.1/5-Paralela.AssemblyInfoInputs.cache
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/obj/Debug/netcoreapp3.1/5-Paralela.AssemblyInfo.cs
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/obj/Debug/netcoreapp3.1/5-Paralela.csproj.CoreCompileInputs.cache
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/bin/Debug/netcoreapp3.1/5-Paralela
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/bin/Debug/netcoreapp3.1/5-Paralela.deps.json
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/bin/Debug/netcoreapp3.1/5-Paralela.runtimeconfig.json
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/bin/Debug/netcoreapp3.1/5-Paralela.runtimeconfig.dev.json
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/bin/Debug/netcoreapp3.1/5-Paralela.dll
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/bin/Debug/netcoreapp3.1/5-Paralela.pdb
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/obj/Debug/netcoreapp3.1/5-Paralela.dll
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/obj/Debug/netcoreapp3.1/5-Paralela.pdb
+/home/vitor/Projects/ProgramacaoParalela/5-Paralela/obj/Debug/netcoreapp3.1/5-Paralela.genruntimeconfig.cache

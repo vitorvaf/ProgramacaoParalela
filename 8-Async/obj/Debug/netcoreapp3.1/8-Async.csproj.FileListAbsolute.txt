@@ -1,0 +1,13 @@
+/home/vitor/Projects/ProgramacaoParalela/8-Async/bin/Debug/netcoreapp3.1/8-Async
+/home/vitor/Projects/ProgramacaoParalela/8-Async/bin/Debug/netcoreapp3.1/8-Async.deps.json
+/home/vitor/Projects/ProgramacaoParalela/8-Async/bin/Debug/netcoreapp3.1/8-Async.runtimeconfig.json
+/home/vitor/Projects/ProgramacaoParalela/8-Async/bin/Debug/netcoreapp3.1/8-Async.runtimeconfig.dev.json
+/home/vitor/Projects/ProgramacaoParalela/8-Async/bin/Debug/netcoreapp3.1/8-Async.dll
+/home/vitor/Projects/ProgramacaoParalela/8-Async/bin/Debug/netcoreapp3.1/8-Async.pdb
+/home/vitor/Projects/ProgramacaoParalela/8-Async/obj/Debug/netcoreapp3.1/8-Async.csprojAssemblyReference.cache
+/home/vitor/Projects/ProgramacaoParalela/8-Async/obj/Debug/netcoreapp3.1/8-Async.AssemblyInfoInputs.cache
+/home/vitor/Projects/ProgramacaoParalela/8-Async/obj/Debug/netcoreapp3.1/8-Async.AssemblyInfo.cs
+/home/vitor/Projects/ProgramacaoParalela/8-Async/obj/Debug/netcoreapp3.1/8-Async.csproj.CoreCompileInputs.cache
+/home/vitor/Projects/ProgramacaoParalela/8-Async/obj/Debug/netcoreapp3.1/8-Async.dll
+/home/vitor/Projects/ProgramacaoParalela/8-Async/obj/Debug/netcoreapp3.1/8-Async.pdb
+/home/vitor/Projects/ProgramacaoParalela/8-Async/obj/Debug/netcoreapp3.1/8-Async.genruntimeconfig.cache

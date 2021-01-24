@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Threading.Tasks;
 
-namespace ProgramacaoParalela.Sincrona
+namespace _5_Paralela
 {
     class Program
     {
@@ -11,15 +12,16 @@ namespace ProgramacaoParalela.Sincrona
         {
             var sw = new Stopwatch();
             sw.Start();
-
-            var primes = GetPrimeNumbers(2, 10000000);
-            Console.WriteLine("Primes found: {0}\nTotal time: {1}", primes.Count,sw.ElapsedMilliseconds);
+            const int numThreads = 10;
+            var primes = new List<int>[numThreads];
+            Parallel.For(0,numThreads,i => primes[i] = GetPrimeNumbers(i== 0 ? 2 : i * 1000000 + 1, (i+1)*1000000));
+            Console.WriteLine("Primes found: {0}\nTotal time: {1}", primes.Sum(p => p.Count), sw.ElapsedMilliseconds);
         }
 
         private static List<int> GetPrimeNumbers(int minimum, int maximum)
         {
             var count = maximum - minimum + 1;
-            return Enumerable.Range(minimum,count).Where(IsPrimeNumber).ToList();
+            return Enumerable.Range(minimum, count).Where(IsPrimeNumber).ToList();
         }
 
         static bool IsPrimeNumber(int p)

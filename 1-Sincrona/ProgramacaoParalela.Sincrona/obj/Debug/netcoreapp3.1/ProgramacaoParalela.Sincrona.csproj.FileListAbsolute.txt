@@ -1,0 +1,13 @@
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/bin/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/bin/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.deps.json
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/bin/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.runtimeconfig.json
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/bin/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.runtimeconfig.dev.json
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/bin/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.dll
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/bin/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.pdb
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/obj/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.csprojAssemblyReference.cache
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/obj/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.AssemblyInfoInputs.cache
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/obj/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.AssemblyInfo.cs
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/obj/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.csproj.CoreCompileInputs.cache
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/obj/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.dll
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/obj/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.pdb
+/home/vitor/Projects/ProgramacaoParalela/1-Sincrona/ProgramacaoParalela.Sincrona/obj/Debug/netcoreapp3.1/ProgramacaoParalela.Sincrona.genruntimeconfig.cache

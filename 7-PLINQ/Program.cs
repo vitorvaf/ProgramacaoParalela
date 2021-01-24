@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 
-namespace ProgramacaoParalela.Sincrona
+namespace _7_PLINQ
 {
     class Program
     {
@@ -11,15 +11,14 @@ namespace ProgramacaoParalela.Sincrona
         {
             var sw = new Stopwatch();
             sw.Start();
-
             var primes = GetPrimeNumbers(2, 10000000);
-            Console.WriteLine("Primes found: {0}\nTotal time: {1}", primes.Count,sw.ElapsedMilliseconds);
+            Console.WriteLine("Primes found: {0}\nTotal time: {1}", primes.Count, sw.ElapsedMilliseconds);
         }
 
         private static List<int> GetPrimeNumbers(int minimum, int maximum)
         {
             var count = maximum - minimum + 1;
-            return Enumerable.Range(minimum,count).Where(IsPrimeNumber).ToList();
+            return Enumerable.Range(minimum, count).AsParallel().Where(IsPrimeNumber).ToList();
         }
 
         static bool IsPrimeNumber(int p)

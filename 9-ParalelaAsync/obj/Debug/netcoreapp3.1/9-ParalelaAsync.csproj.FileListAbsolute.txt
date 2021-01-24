@@ -1,0 +1,13 @@
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/bin/Debug/netcoreapp3.1/9-ParalelaAsync
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/bin/Debug/netcoreapp3.1/9-ParalelaAsync.deps.json
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/bin/Debug/netcoreapp3.1/9-ParalelaAsync.runtimeconfig.json
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/bin/Debug/netcoreapp3.1/9-ParalelaAsync.runtimeconfig.dev.json
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/bin/Debug/netcoreapp3.1/9-ParalelaAsync.dll
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/bin/Debug/netcoreapp3.1/9-ParalelaAsync.pdb
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/obj/Debug/netcoreapp3.1/9-ParalelaAsync.csprojAssemblyReference.cache
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/obj/Debug/netcoreapp3.1/9-ParalelaAsync.AssemblyInfoInputs.cache
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/obj/Debug/netcoreapp3.1/9-ParalelaAsync.AssemblyInfo.cs
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/obj/Debug/netcoreapp3.1/9-ParalelaAsync.csproj.CoreCompileInputs.cache
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/obj/Debug/netcoreapp3.1/9-ParalelaAsync.dll
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/obj/Debug/netcoreapp3.1/9-ParalelaAsync.pdb
+/home/vitor/Projects/ProgramacaoParalela/9-ParalelaAsync/obj/Debug/netcoreapp3.1/9-ParalelaAsync.genruntimeconfig.cache
